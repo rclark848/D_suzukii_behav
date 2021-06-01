@@ -1,0 +1,217 @@
+Trial,Species,Week,Test,Mated_Date,Females_Placed_in_Vial_Date,Females_Removed_From_Vial_Date,Larvae_Check_Date,Live_Offspring,Pupae_Larvae,Total_Offspring,Researcher,Notes
+DS_W1_01,Drosophila_suzukii,1,DS_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DS_W1_02,Drosophila_suzukii,1,DS_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DS_W1_03,Drosophila_suzukii,1,DS_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DS_W1_04,Drosophila_suzukii,1,DS_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DS_W1_05,Drosophila_suzukii,1,DS_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DS_W1_06,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,3,51,54,Rene,
+DS_W1_07,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,1,37,38,Rene,
+DS_W1_08,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,0,55,55,Rene,
+DS_W1_09,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,0,45,45,Rene,
+DS_W1_10,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,0,44,44,Rene,
+DS_W1_11,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,0,39,39,Rene,
+DS_W1_12,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,NA,NA,NA,Rene,Moldy BB
+DS_W1_13,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,NA,NA,NA,Rene,Moldy BB
+DS_W1_14,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,0,63,63,Rene,
+DS_W1_15,Drosophila_suzukii,1,DS_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,0,34,34,Rene,
+DS_W1_16,Drosophila_suzukii,1,DS_W1,05.16.2017,05.16.2017,05.23.2017,05.26.2017,0,53,53,Rene,
+DS_W1_17,Drosophila_suzukii,1,DS_W1,05.16.2017,05.16.2017,05.23.2017,05.26.2017,0,53,53,Rene,
+DS_W1_18,Drosophila_suzukii,1,DS_W1,05.16.2017,05.16.2017,05.23.2017,05.26.2017,0,43,43,Rene,
+DS_W1_19,Drosophila_suzukii,1,DS_W1,05.16.2017,05.16.2017,05.23.2017,05.26.2017,0,45,45,Rene,
+DS_W1_20,Drosophila_suzukii,1,DS_W1,05.16.2017,05.16.2017,05.23.2017,05.26.2017,0,35,35,Rene,
+DS_W1_21,Drosophila_suzukii,1,DS_W1,05.19.2017,05.19.2017,05.26.2017,05.30.2017,0,10,10,Rene,
+DS_W1_22,Drosophila_suzukii,1,DS_W1,05.19.2017,05.19.2017,05.26.2017,05.30.2017,0,41,41,Rene,
+DS_W1_23,Drosophila_suzukii,1,DS_W1,05.19.2017,05.19.2017,05.26.2017,05.30.2017,0,15,15,Rene,
+DS_W1_24,Drosophila_suzukii,1,DS_W1,05.19.2017,05.19.2017,05.26.2017,05.30.2017,0,21,21,Rene,
+DS_W1_25,Drosophila_suzukii,1,DS_W1,05.19.2017,05.19.2017,05.26.2017,05.30.2017,0,22,22,Rene,
+DS_W1_26,Drosophila_suzukii,1,DS_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,0,22,22,Haley,
+DS_W1_27,Drosophila_suzukii,1,DS_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,0,20,20,Haley,
+DS_W1_28,Drosophila_suzukii,1,DS_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,NA,NA,NA,Haley,Moldy BB
+DS_W1_29,Drosophila_suzukii,1,DS_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,0,34,34,Haley,
+DS_W1_30,Drosophila_suzukii,1,DS_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,0,13,13,Haley,
+DS_W1_31,Drosophila_suzukii,1,DS_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,NA,NA,NA,Haley,No larvae
+DS_W1_32,Drosophila_suzukii,1,DS_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,NA,NA,NA,Haley,"Moldy BB, no larvae"
+DB_W1_01,Drosophila_biarmipes,1,DB_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DB_W1_02,Drosophila_biarmipes,1,DB_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DB_W1_03,Drosophila_biarmipes,1,DB_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DB_W1_04,Drosophila_biarmipes,1,DB_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DB_W1_05,Drosophila_biarmipes,1,DB_W1,04.26.2017,04.26.2017,NA,05.08.2017,NA,NA,NA,Rene,Female found dead when went to remove from vial
+DB_W1_06,Drosophila_biarmipes,1,DB_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DB_W1_07,Drosophila_biarmipes,1,DB_W1,04.26.2017,04.26.2017,05.03.2017,05.08.2017,NA,NA,NA,Rene,Missed check date
+DB_W1_08,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,1,48,49,Rene,
+DB_W1_09,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,0,63,63,Rene,
+DB_W1_10,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,NA,05.12.2017,NA,NA,NA,Rene,Female missing when went to remove from vial
+DB_W1_11,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,NA,05.12.2017,NA,NA,NA,Rene,Female missing when went to remove from vial
+DB_W1_12,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,2,59,61,Rene,
+DB_W1_13,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,0,47,47,Rene,
+DB_W1_14,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,NA,NA,NA,Rene,No larvae when checked
+DB_W1_15,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,NA,NA,NA,Rene,No pupae when checked
+DB_W1_16,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,NA,NA,NA,Rene,No pupae when checked
+DB_W1_17,Drosophila_biarmipes,1,DB_W1,05.01.2017,05.01.2017,05.08.2017,05.12.2017,3,61,64,Rene,
+DB_W1_18,Drosophila_biarmipes,1,DB_W1,05.19.2017,05.19.2017,05.26.2017,05.30.2017,1,19,20,Rene,
+DB_W1_19,Drosophila_biarmipes,1,DB_W1,05.19.2017,05.19.2017,05.26.2017,05.30.2017,2,5,7,Rene,
+DB_W1_20,Drosophila_biarmipes,1,DB_W1,05.19.2017,05.19.2017,05.26.2017,05.30.2017,0,42,42,Rene,
+DB_W1_21,Drosophila_biarmipes,1,DB_W1,05.19.2017,05.19.2017,NA,05.30.2017,NA,NA,NA,Rene,Female found dead when went to remove from vial
+DB_W1_22,Drosophila_biarmipes,1,DB_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,0,52,52,Julia,
+DB_W1_23,Drosophila_biarmipes,1,DB_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,1,42,43,Julia,
+DB_W1_24,Drosophila_biarmipes,1,DB_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,0,25,25,Julia,
+DB_W1_25,Drosophila_biarmipes,1,DB_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,2,45,47,Julia,
+DB_W1_26,Drosophila_biarmipes,1,DB_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,5,65,70,Julia,
+DB_W1_27,Drosophila_biarmipes,1,DB_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,11,59,70,Julia,
+DB_W1_28,Drosophila_biarmipes,1,DB_W1,06.02.2017,06.02.2017,06.09.2017,06.12.2017,0,52,52,Julia,
+DB_W1_29,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,0,55,55,Julia,
+DB_W1_30,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,0,50,50,Julia,
+DB_W1_31,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,1,71,72,Julia,Live offspring found dead when went to remove from vial
+DB_W1_32,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,NA,NA,NA,Rene,No larvae when checked
+DB_W1_33,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,NA,NA,NA,Julia,No pupae when checked
+DB_W1_34,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,4,67,71,Julia,
+DB_W1_35,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,NA,06.15.2017,NA,NA,NA,Julia,Female found dead when went to remove from vial
+DB_W1_36,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,0,49,49,Julia,
+DB_W1_37,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,0,65,65,Julia,
+DB_W1_38,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,0,44,44,Julia,
+DB_W1_39,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,0,57,57,Julia,
+DB_W1_40,Drosophila_biarmipes,1,DB_W1,06.05.2017,06.05.2017,06.12.2017,06.15.2017,0,82,82,Julia,
+DS_W2_01,Drosophila_suzukii,2,DS_W2,04.26.2017,05.03.2017,NA,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1); Female found dead when went to remove from vial
+DS_W2_02,Drosophila_suzukii,2,DS_W2,04.26.2017,05.03.2017,05.10.2017,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1)
+DS_W2_03,Drosophila_suzukii,2,DS_W2,04.26.2017,05.03.2017,05.10.2017,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1)
+DS_W2_04,Drosophila_suzukii,2,DS_W2,04.26.2017,05.03.2017,05.10.2017,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1)
+DS_W2_05,Drosophila_suzukii,2,DS_W2,04.26.2017,05.03.2017,05.10.2017,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1)
+DS_W2_06,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,0,37,37,Rene,
+DS_W2_07,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,0,51,51,Rene,
+DS_W2_08,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,0,45,45,Rene,
+DS_W2_09,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,0,51,51,Rene,
+DS_W2_10,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,NA,05.19.2017,NA,NA,NA,Rene,Female found dead when went to remove from vial
+DS_W2_11,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,NA,NA,NA,Rene,Moldy BB
+DS_W2_12,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,NA,05.19.2017,NA,NA,NA,Rene,Female found dead when went to remove from vial
+DS_W2_13,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,NA,NA,NA,Rene,Moldy BB
+DS_W2_14,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,0,54,54,Rene,
+DS_W2_15,Drosophila_suzukii,2,DS_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,0,58,58,Rene,
+DS_W2_16,Drosophila_suzukii,2,DS_W2,05.16.2017,05.23.2017,05.30.2017,06.02.2017,0,28,28,Rene,
+DS_W2_17,Drosophila_suzukii,2,DS_W2,05.16.2017,05.23.2017,05.30.2017,06.02.2017,0,75,75,Rene,
+DS_W2_18,Drosophila_suzukii,2,DS_W2,05.16.2017,05.23.2017,05.30.2017,06.02.2017,0,19,19,Rene,
+DS_W2_19,Drosophila_suzukii,2,DS_W2,05.16.2017,05.23.2017,05.30.2017,06.02.2017,NA,NA,NA,Rene,Female found dead when went to remove from vial
+DS_W2_20,Drosophila_suzukii,2,DS_W2,05.16.2017,05.23.2017,05.30.2017,06.02.2017,nA,NA,NA,Rene,Moldy BB
+DS_W2_21,Drosophila_suzukii,2,DS_W2,05.19.2017,05.26.2017,06.02.2017,06.06.2017,3,40,43,Rene,
+DS_W2_22,Drosophila_suzukii,2,DS_W2,05.19.2017,05.26.2017,06.02.2017,06.06.2017,0,70,70,Rene,
+DS_W2_23,Drosophila_suzukii,2,DS_W2,05.19.2017,05.26.2017,NA,06.06.2017,NA,NA,NA,Rene,Female found dead when went to remove from vial
+DS_W2_24,Drosophila_suzukii,2,DS_W2,05.19.2017,05.26.2017,06.02.2017,06.06.2017,8,72,80,Rene,
+DS_W2_25,Drosophila_suzukii,2,DS_W2,05.19.2017,05.26.2017,06.02.2017,06.06.2017,4,50,54,Rene,
+DS_W2_26,Drosophila_suzukii,2,DS_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,1,35,36,Haley,
+DS_W2_27,Drosophila_suzukii,2,DS_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,0,13,13,Haley,
+DS_W2_28,Drosophila_suzukii,2,DS_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,NA,NA,NA,Haley,Female found dead when went to remove from vial
+DS_W2_29,Drosophila_suzukii,2,DS_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,0,41,41,Haley,
+DS_W2_30,Drosophila_suzukii,2,DS_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,NA,NA,NA,Haley,Female found dead when went to remove from vial
+DS_W2_31,Drosophila_suzukii,2,DS_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,NA,NA,NA,Haley,
+DS_W2_32,Drosophila_suzukii,2,DS_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,NA,NA,NA,Haley,
+DB_W2_01,Drosophila_biarmipes,2,DB_W2,04.26.2017,05.03.2017,05.10.2017,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1)
+DB_W2_02,Drosophila_biarmipes,2,DB_W2,04.26.2017,05.03.2017,05.10.2017,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1)
+DB_W2_03,Drosophila_biarmipes,2,DB_W2,04.26.2017,05.03.2017,05.10.2017,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1)
+DB_W2_04,Drosophila_biarmipes,2,DB_W2,04.26.2017,05.03.2017,05.10.2017,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1)
+DB_W2_05,Drosophila_biarmipes,2,DB_W2,04.26.2017,NA,NA,NA,NA,NA,NA,Rene,Missed check date (week 1); Female found dead when went to remove from vial (after week 1)
+DB_W2_06,Drosophila_biarmipes,2,DB_W2,04.26.2017,05.03.2017,05.10.2017,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1)
+DB_W2_07,Drosophila_biarmipes,2,DB_W2,04.26.2017,05.03.2017,NA,05.15.2017,NA,NA,NA,Rene,Missed check date (week 1); Female found dead when went to remove from vial
+DB_W2_08,Drosophila_biarmipes,2,DB_W2,05.01.2017,05.08.2017,0.5.15.2017,05.19.2017,0,65,65,Rene,
+DB_W2_09,Drosophila_biarmipes,2,DB_W2,05.01.2017,05.08.2017,0.5.15.2017,05.19.2017,0,52,52,Rene,
+DB_W2_10,Drosophila_biarmipes,2,DB_W2,05.01.2017,NA,NA,NA,NA,NA,NA,Rene,Female found dead when went to remove from vial (after week 1)
+DB_W2_11,Drosophila_biarmipes,2,DB_W2,05.01.2017,NA,NA,NA,NA,NA,NA,Rene,Female found dead when went to remove from vial (after week 1)
+DB_W2_12,Drosophila_biarmipes,2,DB_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,0,41,41,Rene,
+DB_W2_13,Drosophila_biarmipes,2,DB_W2,05.01.2017,05.08.2017,NA,05.19.2017,0,21,21,Rene,Female found dead when went to remove from vial
+DB_W2_14,Drosophila_biarmipes,2,DB_W2,05.01.2017,05.08.2017,NA,NA,NA,NA,NA,Rene,Female found dead when went to remove from vial (after week 1)
+DB_W2_15,Drosophila_biarmipes,2,DB_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,1,27,28,Rene,
+DB_W2_16,Drosophila_biarmipes,2,DB_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,NA,NA,NA,Rene,Mold in vial
+DB_W2_17,Drosophila_biarmipes,2,DB_W2,05.01.2017,05.08.2017,05.15.2017,05.19.2017,0,76,76,Rene,
+DB_W2_18,Drosophila_biarmipes,2,DB_W2,05.19.2017,05.26.2017,06.02.2017,06.06.2017,23,38,61,Rene,Female found dead when went to remove from vial
+DB_W2_19,Drosophila_biarmipes,2,DB_W2,05.19.2017,05.26.2017,NA,NA,NA,NA,NA,Rene,Female found dead when went to remove from vial (after week 1)
+DB_W2_20,Drosophila_biarmipes,2,DB_W2,05.19.2017,NA,NA,NA,NA,NA,NA,Rene,Femael found dead when went to remove from vial
+DB_W2_21,Drosophila_biarmipes,2,DB_W2,05.19.2017,NA,NA,NA,NA,NA,NA,Julia,
+DB_W2_22,Drosophila_biarmipes,2,DB_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,2,74,76,Julia,
+DB_W2_23,Drosophila_biarmipes,2,DB_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,7,100,107,Julia,
+DB_W2_24,Drosophila_biarmipes,2,DB_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,6,1,7,Julia,
+DB_W2_25,Drosophila_biarmipes,2,DB_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,0,7,7,Julia,
+DB_W2_26,Drosophila_biarmipes,2,DB_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,0,61,61,Julia,
+DB_W2_27,Drosophila_biarmipes,2,DB_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,2,35,37,Julia,
+DB_W2_28,Drosophila_biarmipes,2,DB_W2,06.02.2017,06.09.2017,06.16.2017,06.19.2017,0,30,30,Julia,
+DB_W2_29,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,NA,NA,NA,Julia,No larvae when checked
+DB_W2_30,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,12,65,77,Julia,
+DB_W2_31,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,23,55,78,Julia,
+DB_W2_32,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,NA,NA,NA,Julia,Female found dead when went to remove from vial
+DB_W2_33,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,NA,NA,NA,Julia,"Did not remove female from vial, could not discern between her and live offspring"
+DB_W2_34,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,5,38,43,Julia,
+DB_W2_35,Drosophila_biarmipes,2,DB_W2,06.05.2017,NA,06.19.2017,06.22.2017,NA,NA,NA,Julia,Female found dead when went to remove from vial
+DB_W2_36,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,3,59,62,Julia,
+DB_W2_37,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,0,36,36,Julia,
+DB_W2_38,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,4,44,48,Julia,
+DB_W2_39,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,1,32,33,Julia,
+DB_W2_40,Drosophila_biarmipes,2,DB_W2,06.05.2017,06.12.2017,06.19.2017,06.22.2017,NA,NA,NA,Julia,Mold in vial
+DS_Total_01,Drosophila_suzukii,Total,DS_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_02,Drosophila_suzukii,Total,DS_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_03,Drosophila_suzukii,Total,DS_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_04,Drosophila_suzukii,Total,DS_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_05,Drosophila_suzukii,Total,DS_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_06,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,3,88,91,NA,
+DS_Total_07,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,1,88,89,NA,
+DS_Total_08,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,0,100,100,NA,
+DS_Total_09,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,0,96,96,NA,
+DS_Total_10,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_11,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_12,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_13,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_14,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,0,117,117,NA,
+DS_Total_15,Drosophila_suzukii,Total,DS_Total,05.01.2017,NA,NA,NA,0,92,92,NA,
+DS_Total_16,Drosophila_suzukii,Total,DS_Total,05.16.2017,NA,NA,NA,0,81,81,NA,
+DS_Total_17,Drosophila_suzukii,Total,DS_Total,05.16.2017,NA,NA,NA,0,128,128,NA,
+DS_Total_18,Drosophila_suzukii,Total,DS_Total,05.16.2017,NA,NA,NA,0,62,62,NA,
+DS_Total_19,Drosophila_suzukii,Total,DS_Total,05.16.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_20,Drosophila_suzukii,Total,DS_Total,05.16.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_21,Drosophila_suzukii,Total,DS_Total,05.19.2017,NA,NA,NA,3,50,53,NA,
+DS_Total_22,Drosophila_suzukii,Total,DS_Total,05.19.2017,NA,NA,NA,0,111,111,NA,
+DS_Total_23,Drosophila_suzukii,Total,DS_Total,05.19.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_24,Drosophila_suzukii,Total,DS_Total,05.19.2017,NA,NA,NA,8,93,101,NA,
+DS_Total_25,Drosophila_suzukii,Total,DS_Total,05.19.2017,NA,NA,NA,4,72,76,NA,
+DS_Total_26,Drosophila_suzukii,Total,DS_Total,06.02.2017,NA,NA,NA,1,57,58,NA,
+DS_Total_27,Drosophila_suzukii,Total,DS_Total,06.02.2017,NA,NA,NA,0,33,33,NA,
+DS_Total_28,Drosophila_suzukii,Total,DS_Total,06.02.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_29,Drosophila_suzukii,Total,DS_Total,06.02.2017,NA,NA,NA,0,75,75,NA,
+DS_Total_30,Drosophila_suzukii,Total,DS_Total,06.05.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_31,Drosophila_suzukii,Total,DS_Total,06.05.2017,NA,NA,NA,NA,NA,NA,NA,
+DS_Total_32,Drosophila_suzukii,Total,DS_Total,06.05.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_01,Drosophila_biarmipes,Total,DB_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_02,Drosophila_biarmipes,Total,DB_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_03,Drosophila_biarmipes,Total,DB_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_04,Drosophila_biarmipes,Total,DB_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_05,Drosophila_biarmipes,Total,DB_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_06,Drosophila_biarmipes,Total,DB_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_07,Drosophila_biarmipes,Total,DB_Total,04.26.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_08,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,1,113,114,NA,
+DB_Total_09,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,0,115,115,NA,
+DB_Total_10,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_11,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_12,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,2,100,102,NA,
+DB_Total_13,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,0,68,68,NA,
+DB_Total_14,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_15,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_16,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_17,Drosophila_biarmipes,Total,DB_Total,05.01.2017,NA,NA,NA,3,137,140,NA,
+DB_Total_18,Drosophila_biarmipes,Total,DB_Total,05.19.2017,NA,NA,NA,24,57,81,NA,
+DB_Total_19,Drosophila_biarmipes,Total,DB_Total,05.19.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_20,Drosophila_biarmipes,Total,DB_Total,05.19.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_21,Drosophila_biarmipes,Total,DB_Total,05.19.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_22,Drosophila_biarmipes,Total,DB_Total,06.02.2017,NA,NA,NA,2,126,128,NA,
+DB_Total_23,Drosophila_biarmipes,Total,DB_Total,06.02.2017,NA,NA,NA,8,142,150,NA,
+DB_Total_24,Drosophila_biarmipes,Total,DB_Total,06.02.2017,NA,NA,NA,6,26,32,NA,
+DB_Total_25,Drosophila_biarmipes,Total,DB_Total,06.02.2017,NA,NA,NA,2,52,54,NA,
+DB_Total_26,Drosophila_biarmipes,Total,DB_Total,06.02.2017,NA,NA,NA,5,126,131,NA,
+DB_Total_27,Drosophila_biarmipes,Total,DB_Total,06.02.2017,NA,NA,NA,13,94,107,NA,
+DB_Total_28,Drosophila_biarmipes,Total,DB_Total,06.02.2017,NA,NA,NA,0,82,82,NA,
+DB_Total_29,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_30,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,12,115,127,NA,
+DB_Total_31,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,24,126,150,NA,
+DB_Total_32,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_33,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_34,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,9,105,114,NA,
+DB_Total_35,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,NA,NA,NA,NA,
+DB_Total_36,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,3,108,111,NA,
+DB_Total_37,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,0,101,101,NA,
+DB_Total_38,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,4,88,92,NA,
+DB_Total_39,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,1,89,90,NA,
+DB_Total_40,Drosophila_biarmipes,Total,DB_Total,06.05.2017,NA,NA,NA,NA,NA,NA,NA,
