@@ -4,6 +4,9 @@ This repository provides the data and scripts for the analyses in "An analysis o
 
 Please contact René at rene.clark[at]rutgers.edu with any questions.
 
+*Also available to download as a zip archive from Zenodo.*
+[![DOI](https://zenodo.org/badge/372948175.svg)](https://zenodo.org/badge/latestdoi/372948175)
+
 ## **DATA**
 
 A list of the files either read into R scripts for analyses or the raw data files where data was originally recorded. All dates are in MONTH.DAY.YEAR format.
