@@ -4,7 +4,7 @@ This repository provides the data and scripts for the analyses in "An analysis o
 
 Please contact René at rene.clark[at]rutgers.edu with any questions.
 
-*Also available to download as a zip archive from Zenodo.*
+*Also available to download as a zip archive from Zenodo.*  
 [![DOI](https://zenodo.org/badge/372948175.svg)](https://zenodo.org/badge/latestdoi/372948175)
 
 ## **DATA**
