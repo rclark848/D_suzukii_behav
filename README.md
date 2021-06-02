@@ -4,7 +4,7 @@ This repository provides the data and scripts for the analyses in "An analysis o
 
 Please contact René at rene.clark[at]rutgers.edu with any questions.
 
-# Data
+## **Data**
 
 
 
