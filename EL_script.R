@@ -17,7 +17,7 @@ remove(list = ls())
 library(tidyverse)
 
 #read in data
-EL_data <- read_csv("EL_Data.csv", col_names = TRUE)
+EL_data <- read_csv("EL_TidyData.csv", col_names = TRUE)
 
 #################################################################################################################################################
 
