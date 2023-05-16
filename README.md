@@ -2,7 +2,7 @@ This repository provides the data and scripts for the analyses in "An analysis o
 
 **Citation:** Clark RD, Dipiero M, Fingerut JT, McRobert SP. (2020) An analysis of female postcopulatory behavior in *Drosophila suzukii* and *Drosophila biarmipes*. *Journal of Insect Behavior*, **33**:193-200. [(doi:10.1007/s10905-020-09761-x)](https://link.springer.com/article/10.1007%2Fs10905-020-09761-x)
 
-Please contact René at rene.clark[at]rutgers.edu with any questions.
+Please contact René at rclark848[at]gmail.com with any questions.
 
 *Also available to download as a zip archive from Zenodo.*  
 [![DOI](https://zenodo.org/badge/372948175.svg)](https://zenodo.org/badge/latestdoi/372948175)
