@@ -14,8 +14,8 @@ getwd()
 remove(list = ls())
 
 #load libraries
-library(tidyverse)
-library(RColorBrewer)
+library(tidyverse) #v.2.0.0
+library(RColorBrewer) #v.1.1.3
 
 #read in data
 SA_data <- read_csv("SA_TidyData.csv", col_names = TRUE)
