@@ -14,7 +14,7 @@ getwd()
 remove(list = ls())
 
 #load libraries
-library(tidyverse)
+library(tidyverse) #v.2.0.0
 
 #read in data
 EL_data <- read_csv("EL_TidyData.csv", col_names = TRUE)
