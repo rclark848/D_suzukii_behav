@@ -38,3 +38,13 @@ This script conducts the sexual receptiveness analyses (t-tests and Chi-squared 
 
 ### **EL_script.R**
 This script conducts the offspring production analyses (t-tests) for both *D. suzukii* & *D. biarmipes*. Reads in `EL_TidyData.csv`.
+_______________________________________________________
+
+**Necessary Software**
+1. R (v.4.2.2 or above)
+2. RStudio (v.2022.12.0 or above)
+
+**Necessary R Packages**
+1. RColorBrewer (v.1.1.3)
+2. tidyverse (v.2.0.0)
+3. 
